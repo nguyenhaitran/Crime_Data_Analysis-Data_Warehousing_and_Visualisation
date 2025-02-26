@@ -12,7 +12,7 @@ The project focuses on performing data warehousing techniques on real crime data
 - Data cleaning/ETL script
 - SQL script and cleaned CSV files
 - Solution project file (and its folder) of the SSDT analysis service multi-dimensional project
-- PDF file discribing the association rule mining process and results.
+- PDF file describing the association rule mining process and results.
 
 ## Data Warehousing Design and Implementation
 - Consider a few business questions my data warehouse could help answer.
