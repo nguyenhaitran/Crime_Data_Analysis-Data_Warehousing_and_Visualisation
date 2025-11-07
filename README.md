@@ -55,7 +55,12 @@ It includes:
 
 ## Room for Improvement  
 - **Automation:** Future versions could implement a scheduled ETL workflow when real-time data is available.
-- **Scalability:** Migrating to a cloud warehouse would improve scalability.  
+- **Scalability:** Migrating to a cloud warehouse would improve scalability.
+
+---
+
+## Result 
+Final Mark: 45/50
 
 
 
